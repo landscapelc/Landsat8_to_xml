@@ -2,7 +2,6 @@
 
 **Usage:**
 
-mtl_to_xml has three modes.
 
 1. The script must be run in the same directory as the MTL file.
 
